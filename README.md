@@ -10,19 +10,6 @@ The objective is to identify frequent itemsets and generate meaningful associati
 
 ---
 
-## 📂 Project Structure
-
-```bash
-Market-Basket-Analysis-using-Association-rule-Mining/
-│
-├── Market_Basket_Analysis_using_Apriori_Algorithm.ipynb
-├── Market_basket_analysis_using_Eclat_Algorithm.ipynb
-├── Market_basket_analysis_using_F_P_Growth.ipynb
-└── README.md
-```
-
----
-
 ## 🚀 Algorithms Implemented
 
 ### 1️⃣ Apriori Algorithm
